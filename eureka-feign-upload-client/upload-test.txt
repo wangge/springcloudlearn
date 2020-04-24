@@ -1,0 +1,1 @@
+hello Eureka-feign-upload-client
